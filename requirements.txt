@@ -1,5 +1,4 @@
-fastapi 
-uvicorn 
-requests 
-pydantic 
-nltk
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
